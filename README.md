@@ -74,6 +74,7 @@ Python-Fundamental-Booster/
 * VS Code or any Python IDE
 
 ---
+Google drive : https://drive.google.com/drive/folders/1emIK1bf7uiEQjkjLZENmQgjXgEQ8-8Lj
 
 ## 🚀 Getting Started
 
