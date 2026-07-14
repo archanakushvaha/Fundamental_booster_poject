@@ -74,7 +74,7 @@ Python-Fundamental-Booster/
 * VS Code or any Python IDE
 
 ---
-### Explanation vidio
+### Explanation video :
 https://drive.google.com/file/d/15ZENBmiS2Ig8dUEDB5zZ3zFGGFtYS9OO/view?usp=drive_link
 
 ## 🚀 Getting Started
